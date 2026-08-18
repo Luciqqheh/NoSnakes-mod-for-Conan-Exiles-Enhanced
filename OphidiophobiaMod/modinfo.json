@@ -1,0 +1,23 @@
+{
+	"name": "OphidiophobiaMod",
+	"description": "[h2] Update to my original mod RemoveSnakes for Conan Exile Enhanced version [/h2]\r\n[i] --- [/i]\r\n\r\nIf you don't like Snakes or have any fears/phobias of them, you can now enjoy Conan without worrying about where you go. All snakes has been banished from Exile Lands and Siptah.\r\n\r\nThis mod removes all snake NPCs\r\n[i] (snake eggs stil lexist but they do nothing) [/i]\r\n\r\nIf you wish to remove any snake related thing (npc or item) that comes from some mod, just please leave comment with npc name (as example pet_snake_cobra) or item Id and i will update mod - might take few days.\r\n(Only for Enhanced version)\r\n\r\nBe aware that there are still some snake realted things in this game - Statues, Colums and some Decorations such as Carpets or Tables with snake motives on them. And also Serpentmen - i havent remove those and i do not plan to since they are not rly snakes, just a bunch of weirdos\r\n\r\n[code] List of removed NPCs and Items\r\n\r\n[b]-- NPCs --[/b]\r\nDesert Snake\r\nJungle Snake\r\nAlpha Snake\r\nCobra\r\nAlpha Cobra\r\nAvatar of Set\r\nGiant Snake (Legendary/Boss)\r\nEast Pirate Town Caravan Snake Boss\r\nSiptah Set Follovers Snake Boss\r\nSiptah Surge Calamity Snake\r\npet Cobra including Hatchling\r\npet Snake\r\npet Snake Alpha\r\nPurge Snakes\r\n\r\n[/code]\r\n\r\n\r\nIf you happen to get Nest of Snakes purge, nothing will spawn unless there are some Human NPCs in it. No snakes will attack your base, tho im not using regular base game purge so not sure what it will do, you might need to use admin command to skip that purge.\r\n\r\n[h3] Thanks to Makto for creating the original NoSnake mod [/h3]\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=1671609283\r\n\r\n- plans for future updates:\r\ntbd",
+	"changeNote": "Recooked for latest game update",
+	"author": "Luciqq",
+	"authorUrl": "",
+	"versionMajor": 1,
+	"versionMinor": 2,
+	"versionBuild": 0,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "",
+	"steamTestLivePublishedFileId": "",
+	"steamWorkshopFileIds":
+	{
+		"mainClient": "3721170915"
+	},
+	"steamVisibility": 0,
+	"folderName": "OphidiophobiaMod",
+	"devkitRevisionNumber": 1001,
+	"devkitSnapshotId": 0,
+	"fileSize": 0,
+	"minimumVersion": "Enhanced"
+}
