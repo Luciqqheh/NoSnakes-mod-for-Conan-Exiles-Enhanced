@@ -1,1 +1,0 @@
-"G:\ConanExileDevKit\CEUE5Devkit\UE4\Saved\Mods\OphidiophobiaMod\Staged\OphidiophobiaMod-Windows.pak" -create="G:\ConanExileDevKit\CEUE5Devkit\UE4\Saved\Mods\OphidiophobiaMod\Staged\Windows-PakList.txt"

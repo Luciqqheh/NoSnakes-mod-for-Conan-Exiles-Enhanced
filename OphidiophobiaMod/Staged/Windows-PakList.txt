@@ -1,2 +1,0 @@
-"G:\ConanExileDevKit\CEUE5Devkit\UE4\Saved\Mods\_Cooked\Windows\ConanSandbox\AssetRegistry.bin" "../../../ConanSandbox/Content/Mods/OphidiophobiaMod/AssetRegistry.bin" -Compress
-"G:\ConanExileDevKit\CEUE5Devkit\UE4\Saved\Mods\_Cooked\Windows\ConanSandbox\Content\PipelineCaches\Windows\ConanSandbox_PCD3D_SM6.stable.upipelinecache" "../../../ConanSandbox/Content/PipelineCaches/Windows/OphidiophobiaMod_PCD3D_SM6.stable.upipelinecache" -Compress
