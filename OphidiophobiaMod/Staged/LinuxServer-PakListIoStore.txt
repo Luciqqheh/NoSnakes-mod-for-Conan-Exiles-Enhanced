@@ -1,0 +1,3 @@
+"G:\ConanExileDevKit\CEUE5Devkit\UE4\Saved\Mods\_Cooked\LinuxServer\ConanSandbox\Content/Mods/OphidiophobiaMod/NoSnakesMod.uasset" "../../../ConanSandbox/Content/Mods/OphidiophobiaMod/NoSnakesMod.uasset" -Compress
+"G:\ConanExileDevKit\CEUE5Devkit\UE4\Saved\Mods\_Cooked\LinuxServer\ConanSandbox\Content/Mods/OphidiophobiaMod/preview.uasset" "../../../ConanSandbox/Content/Mods/OphidiophobiaMod/preview.uasset" -Compress
+"G:\ConanExileDevKit\CEUE5Devkit\UE4\Saved\Mods\_Cooked\LinuxServer\ConanSandbox\Content/Dev/AlmostEmpty.umap" "../../../ConanSandbox/Content/Dev/AlmostEmpty.umap" -Compress
