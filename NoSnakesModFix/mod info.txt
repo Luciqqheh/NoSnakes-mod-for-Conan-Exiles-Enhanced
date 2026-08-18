@@ -1,0 +1,44 @@
+
+NAME: OphidiophobiaMod [Enhanced]
+
+[h2] Update to my original mod RemoveSnakes for Conan Exile Enhanced version [/h2]
+[i] --- [/i]
+
+If you don't like Snakes or have any fears/phobias of them, you can now enjoy Conan without worrying about where you go. All snakes has been banished from Exile Lands and Siptah.
+
+This mod removes all snake NPCs
+[i] (snake eggs stil lexist but they do nothing) [/i]
+
+If you wish to remove any snake related thing (npc or item) that comes from some mod, just please leave comment with npc name (as example pet_snake_cobra) or item Id and i will update mod - might take few days.
+(Only for Enhanced version)
+
+Be aware that there are still some snake realted things in this game - Statues, Colums and some Decorations such as Carpets or Tables with snake motives on them. And also Serpentmen - i havent remove those and i do not plan to since they are not rly snakes, just a bunch of weirdos
+
+[code] List of removed NPCs and Items
+
+[b]-- NPCs --[/b]
+Desert Snake
+Jungle Snake
+Alpha Snake
+Cobra
+Alpha Cobra
+Avatar of Set
+Giant Snake (Legendary/Boss)
+East Pirate Town Caravan Snake Boss
+Siptah Set Follovers Snake Boss
+Siptah Surge Calamity Snake
+pet Cobra including Hatchling
+pet Snake
+pet Snake Alpha
+Purge Snakes
+
+[/code]
+
+
+If you happen to get Nest of Snakes purge, nothing will spawn unless there are some Human NPCs in it. No snakes will attack your base, tho im not using regular base game purge so not sure what it will do, you might need to use admin command to skip that purge.
+
+[h3] Thanks to Makto for creating the original NoSnake mod [/h3]
+https://steamcommunity.com/sharedfiles/filedetails/?id=1671609283
+
+- plans for future updates:
+tbd

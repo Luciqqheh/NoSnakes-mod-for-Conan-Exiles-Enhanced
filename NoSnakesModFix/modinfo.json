@@ -1,0 +1,18 @@
+{
+	"name": "OphidiophobiaMod",
+	"description": "[h2] Update to my original mod RemoveSnakes [/h2]\n[i] sadly i lost the original files so i had to make it again for the newst game version [/i]\n\n[code] MOD ID: 3455769787 [/code]\n\nIf you don't like Snakes or have any fears, you can now enjoy Conan without worrying about where you go. All snakes has been banished from Exile Lands and Siptah.\n\nThis mod removes all snake NPCs and related disturbing items from base game\n[i] (for example snake eggs, snake pets both items and npcs) [/i]\n[i] (There are some npcs and items removed from few mods, such as Decorative Snake item or Decorative King Cobras) [/i]\n\nIf you wish to remove any snake related thing (npc or item) that comes from some mod, just please leave comment with npc name (as example pet_snake_cobra) or item Id and i will update mod - might take few days so dw\n\n\n[code] List of removed NPCs and Items\n\n[b]-- NPCs --[/b]\nDesert Snake\nJungle Snake\nAlpha Snake\nCobra\nAlpha Cobra\nAvatar of Set\nGiant Snake (Legendary/Boss)\nEast Pirate Town Caravan Snake Boss\nSiptah Set Follovers Snake Boss\nSiptah Surge Calamity Snake\npet Cobra including Hatchling\npet Snake\npet Snake Alpha\nPurge Snakes\n\n\n[b]-- Items --[/b]\nSnake Egg [i]- object still spawns but you loot nothing from it[/i]\nDecorative Snake [i](modded, not sure which mod)[/i]\nKing Cobra in 3 sizes [i](modded from Shani's Stuff i thing?)[/i]\n [/code]\n\n\nIf you happen to get Nest of Snakes purge, nothing will spawn unless there are some Human NPCs in it. No snakes will attack your base, tho im not using regular base game purge so not sure what it will do, you might need to use admin command to skip that purge.\n\n[h3] Thanks to Makto for creating the original NoSnake mod [/h3]\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=1671609283",
+	"changeNote": "",
+	"author": "Luciqq",
+	"authorUrl": "",
+	"versionMajor": 1,
+	"versionMinor": 0,
+	"versionBuild": 0,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "3455769787",
+	"steamTestLivePublishedFileId": "",
+	"steamVisibility": 0,
+	"folderName": "RemoveSnakes2",
+	"revisionNumber": 1311351,
+	"snapshotId": 43706,
+	"fileSize": 593904
+}
