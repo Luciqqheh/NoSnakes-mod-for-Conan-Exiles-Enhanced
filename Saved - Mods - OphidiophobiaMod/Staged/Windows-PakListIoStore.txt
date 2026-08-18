@@ -1,0 +1,5 @@
+"G:\ConanExileDevKit\CEUE5Devkit\UE4\Saved\Mods\_Cooked\Windows\ConanSandbox\Content/Mods/OphidiophobiaMod/NoSnakesMod.uasset" "../../../ConanSandbox/Content/Mods/OphidiophobiaMod/NoSnakesMod.uasset" -Compress
+"G:\ConanExileDevKit\CEUE5Devkit\UE4\Saved\Mods\_Cooked\Windows\ConanSandbox\Content/Mods/OphidiophobiaMod/preview.uasset" "../../../ConanSandbox/Content/Mods/OphidiophobiaMod/preview.uasset" -Compress
+"G:\ConanExileDevKit\CEUE5Devkit\UE4\Saved\Mods\_Cooked\Windows\ConanSandbox\Content/Dev/AlmostEmpty.umap" "../../../ConanSandbox/Content/Dev/AlmostEmpty.umap" -Compress
+"G:\ConanExileDevKit\CEUE5Devkit\UE4\Saved\Mods\_Cooked\Windows\ConanSandbox\Content/Dev/AlmostEmpty.ubulk" "../../../ConanSandbox/Content/Dev/AlmostEmpty.ubulk" -Compress
+"G:\ConanExileDevKit\CEUE5Devkit\UE4\Saved\Mods\_Cooked\Windows\ConanSandbox\Content\ShaderArchive-OphidiophobiaMod-PCD3D_SM6-PCD3D_SM6.ushaderbytecode" "../../../ConanSandbox/Content/Mods/OphidiophobiaMod/ShaderArchive-OphidiophobiaMod-PCD3D_SM6-PCD3D_SM6.ushaderbytecode" -Compress
